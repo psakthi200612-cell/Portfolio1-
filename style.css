@@ -1,0 +1,45 @@
+.music-player {
+
+  width: 300px;
+
+  margin: 40px auto;
+
+  padding: 20px;
+
+  border: 1px solid #ccc;
+
+  border-radius: 10px;
+
+  background-color: #f9f9f9;
+
+}
+
+button {
+
+  padding: 10px 20px;
+
+  border: none;
+
+  border-radius: 5px;
+
+  background-color: #4CAF50;
+
+  color: #fff;
+
+}
+
+#playlist li {
+
+  padding: 10px;
+
+  border-bottom: 1px solid #ccc;
+
+  cursor: pointer;
+
+}
+
+#playlist li:hover {
+
+  background-color: #f0f0f0;
+
+}
